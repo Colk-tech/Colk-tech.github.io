@@ -1,2 +1,2 @@
 # Colk-tech.github.io
-github,io用レポジトリ
+github.io用レポジトリ
