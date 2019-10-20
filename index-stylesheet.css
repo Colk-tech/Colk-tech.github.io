@@ -1,15 +1,18 @@
-.a1j {
-  font-family: 'Avenir','Corbel','Osaka';
+body {
+  font-family: "Avenir Next";
 }
 
-.a1e {
-  font-family: 'Avenir','Corbel','Osaka';
+.header {
+  background-color:#f7f2b4;
+  height:90px;
 }
 
-.a2 {
-  font-family: 'Avenir','Corbel','Osaka';
+.main {
+  background-color:#bdf7f1;
+  height:600px;
 }
 
-.a3 {
-  font-family: 'Avenir','Corbel','Osaka';
+.footer {
+  background-color:#ceccf3;
+  height: 270px;
 }
