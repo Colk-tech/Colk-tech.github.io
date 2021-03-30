@@ -1,4 +1,3 @@
 # Colk-tech.github.io
-github.io用レポジトリ  
-作りかけのホームページ  
-デザインだいじに
+A repository for my portfolio.
+I wonder when will this portfolio be completed. 
